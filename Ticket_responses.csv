@@ -1,0 +1,1501 @@
+Problem facing with the application,Issue (in words)
+Account Management,None
+Account Management,Some fields may be modified
+Account Management,Account error
+Account Management,Account management needs some corrections
+Account Management,Account management section needs correcrion
+Account Management,Accounting issue
+Account Management,Unable to reset password
+Account Management,Cannot update my profile information
+Account Management,Unable to add new payment method
+Account Management,Profile picture won't update
+Account Management,Cannot delete my account
+Account Management,Unable to change email address
+Account Management,Cannot change password
+Account Management,Cannot delete saved payment method
+Account Management,Cannot add new shipping address
+Account Management,Unable to change account username
+Account Management,Cannot change account password
+Account Management,Cannot delete account
+Account Management,Unable to add new payment method
+Account Management,Unable to delete saved payment method
+Account Management,Unable to remove saved billing address
+Account Management,Cannot remove saved payment method
+Account Management,Cannot change account password
+Account Management,Cannot remove saved payment method
+Account Management,Cannot delete saved payment method
+Account Management,Cannot add new shipping address
+Account Management,Cannot change account username
+Account Management,Unable to change account password
+Account Management,Unable to change email address
+Account Management,Unable to delete account
+Account Management,Cannot add new shipping address
+Account Management,Cannot delete saved billing address
+Account Management,Cannot change account password
+Account Management,Cannot delete account
+Account Management,Unable to change email address
+Account Management,Cannot delete saved payment method
+Account Management,Unable to remove saved billing address
+Billing,None
+Billing,None
+Billing,The billing site is not working properly
+Billing,Amount input can be modified.
+Billing,Payment mode may be defined well.
+Billing,Issue in checkout while billing
+Billing,Incorrect charges on my account
+Billing,Subscription not renewed automatically
+Billing,Invoice not received for last month's usage
+Billing,Double charged for my subscription
+Billing,Payment failed error message despite sufficient funds
+Billing,Account suspended despite payment
+Billing,Charged for canceled subscription
+Billing,Overcharged for a service
+Billing,Charged twice for the same purchase
+Billing,Payment processing error
+Billing,Recurring payment not canceled despite request
+Billing,Subscription plan not updated despite payment
+Billing,Payment gateway error when trying to make a payment
+Billing,Payment declined due to insufficient funds
+Billing,Invoice does not reflect recent payment
+Billing,Charged for a service I didn't subscribe to
+Billing,Payment processing error
+Billing,Payment declined due to expired credit card
+Billing,Charged twice for the same purchase
+Billing,Invoice does not reflect recent payment
+Billing,Subscription plan not updated despite payment
+Billing,Payment failed error message despite sufficient funds
+Billing,Subscription not renewed automatically
+Billing,Overcharged for a service
+Billing,Payment gateway error when trying to make a payment
+Billing,Charged for canceled subscription
+Billing,Payment declined due to expired credit card
+Billing,Subscription plan not updated despite payment
+Billing,Payment failed error message despite sufficient funds
+Billing,Charged twice for the same purchase
+Technical,Not supporting
+Technical,Refreshing problem
+Technical,I faced some technical issue some glitches are there
+Technical,Seems slow
+Technical,May contain more fields.
+Technical,calculation instruction may be changed.
+Technical,Billing section must be corrected
+Technical,Some more fields are required
+Technical,Technical issue
+Technical,"Every time I try to use the service, I have to login again and again. So it would be better if I am permanently logged in."
+Technical,Technical issues
+Technical,App crashes when I try to upload a file
+Technical,Videos won't play on the app
+Technical,App freezes when I try to access certain features
+Technical,App crashes on startup
+Technical,Slow performance on the app
+Technical,Error message when trying to submit a support ticket
+Technical,Missing features after app update
+Technical,App crashes when trying to access account settings
+Technical,App not compatible with my device
+Technical,App crashes when trying to apply a discount code
+Technical,Error message when trying to update billing information
+Technical,App crashes when trying to view order history
+Technical,App crashes when trying to access certain features
+Technical,App freezes when trying to update profile picture
+Technical,Error message when trying to update account information
+Technical,App crashes when trying to update profile information
+Technical,App crashes on startup
+Technical,App freezes when trying to update profile picture
+Technical,App crashes when trying to update account information
+Technical,App freezes when trying to access certain features
+Technical,Error message when trying to submit a support ticket
+Technical,App crashes when trying to view order history
+Technical,Error message when trying to apply a discount code
+Technical,App not compatible with my device
+Technical,Error message when trying to submit a support ticket
+Technical,Error message when trying to update account information
+Technical,Error message when trying to update profile picture
+Technical,Error message when trying to submit a support ticket
+Technical,App crashes when trying to view order history
+Technical,Error message when trying to update billing information
+Technical,Error message when trying to update billing information
+Account Management,Unable to access account
+Account Management,Account information incorrect
+Account Management,Account login issue
+Account Management,Account settings not saving
+Account Management,Account profile not updating
+Account Management,Account balance discrepancy
+Account Management,Unable to recover account
+Account Management,Account transaction history missing
+Account Management,Account payment method not working
+Account Management,Account profile information incorrect
+Account Management,Account closure request not processed
+Account Management,Unable to verify account ownership
+Account Management,Account password reset not working
+Account Management,Saved payment method not available
+Account Management,Unable to change account settings
+Account Management,Account username change not reflecting
+Account Management,Account password change not successful
+Account Management,Account closure process not initiated
+Account Management,Payment method addition not available
+Account Management,Saved payment method deletion not working
+Technical,Login not working
+Technical,Sign-in page error
+Technical,Unable to sign up
+Technical,Sign-in button not responsive
+Technical,Login credentials not recognized
+Technical,Sign-up form not submitting
+Technical,Unable to reset password
+Technical,Login page keeps reloading
+Technical,Sign-in error message persists
+Technical,Sign-up verification email not received
+Technical,Forgotten password link not working
+Technical,Unable to create account with existing email
+Technical,Login session timeout too short
+Technical,Sign-up page formatting issue on mobile
+Technical,Error message when attempting to change password
+Technical,Sign-in page not loading
+Technical,Account creation captcha not displaying
+Technical,Incorrect email format error not displayed
+Technical,Sign-in with Google button not working
+Technical,Password strength requirements not clear
+Technical,Account activation email not received
+Technical,Error when attempting to log in with Facebook
+Technical,Unable to reset password via email link
+Technical,Account activation link expired
+Technical,Sign-up page terms and conditions link broken
+Technical,Password recovery email not sent
+Technical,Error message when trying to log in after sign-up
+Technical,Account locked after multiple failed login attempts
+Technical,Error when trying to update account settings
+Technical,Unable to create account with special characters in password
+Technical,Account deletion confirmation email not received
+Technical,Error when trying to log in with Apple ID
+Technical,Sign-up page stuck on loading spinner
+Technical,Password reset link expired
+Technical,Unable to log in on new device without verification code
+Technical,Sign-up confirmation page blank after submission
+Technical,Account creation form submission error
+Technical,Unable to sign in after password reset
+Technical,Sign-in page CSS formatting issue
+Technical,Error message when attempting to log in with LinkedIn
+Technical,Password recovery link not clickable in email
+Technical,Sign-up confirmation email in spam folder
+Technical,Error message when trying to log in after account creation
+Technical,Account settings not saving changes
+Technical,Sign-in page keeps redirecting to homepage
+Technical,Error when trying to log in with Twitter
+Technical,Password change form not submitting
+Technical,Error when trying to retrieve security questions for password reset
+Technical,Account deletion error message not clear
+Technical,Error message when attempting to log in from different timezone
+Technical,Sign-up form accepting invalid email format
+Technical,Account settings page showing incorrect information
+Technical,Unable to log in after password change
+Technical,Error when attempting to log in after account suspension
+Technical,Password reset link not working
+Technical,Unable to sign in after account deletion
+Technical,Sign-up form not accepting valid password format
+Technical,Account locked without warning
+Technical,Error message when attempting to log in after account deletion
+Technical,Unable to change password
+Technical,Error when attempting to log in after password reset
+Technical,Account suspended without explanation
+Technical,Unable to sign in after account suspension
+Technical,Account suspended for unknown reason
+Technical,Unable to sign in with correct credentials
+Technical,Error when attempting to log in after email change
+Technical,Unable to sign in with correct credentials
+Billing,Payment confirmation email not received
+Billing,Incorrect billing address entered during checkout
+Billing,Subscription plan upgraded without authorization
+Billing,Payment receipt shows incorrect amount
+Billing,Unable to add new payment method
+Billing,Billing statement not available in account dashboard
+Billing,Automatic payment failed due to bank authorization
+Billing,Payment processed but service not activated
+Billing,Incorrect VAT charges on invoice
+Billing,Payment confirmation page freezes during checkout
+Billing,Invoice not generated for recent subscription renewal
+Billing,Monthly subscription fee increased without notice
+Billing,Incorrect currency conversion applied to payment
+Billing,Payment receipt not accessible in account portal
+Billing,Difficulty accessing billing history
+Billing,Monthly statement not emailed as expected
+Billing,Overcharged for previous month's usage
+Billing,Difficulty canceling auto-renewal
+Billing,Payment confirmation email sent to wrong address
+Billing,Payment receipt contains incorrect billing period
+Billing,Payment processing error
+Billing,Duplicate charges on credit card statement
+Billing,Monthly subscription fee not reflected in account
+Billing,Payment receipt missing from email inbox
+Account Management ,Unable to change account password
+Account Management ,Accounting issue
+Account Management ,Account profile not updating
+Account Management ,Some fields may be modified
+Account Management ,Payment method addition not available
+Technical ,Account activation email not received
+Billing ,None
+Account Management ,Account error
+Account Management ,Saved payment method not available
+Technical ,Account suspended without explanation
+Account Management ,Cannot change account password
+Account Management ,Unable to change account settings
+Billing ,Incorrect billing address entered during checkout
+Account Management ,Payment method addition not available
+Billing ,Payment receipt shows incorrect amount
+Billing ,Duplicate charges on credit card statement
+Technical ,Error message when trying to submit a support ticket
+Billing ,Subscription plan not updated despite payment
+Technical ,App crashes when trying to apply a discount code
+Account Management ,Account transaction history missing
+Technical ,Sign-in with Google button not working
+Billing ,None
+Billing ,Payment receipt missing from email inbox
+Technical ,Password change form not submitting
+Technical ,Sign-up verification email not received
+Account Management ,Cannot change account password
+Account Management ,Account password reset not working
+Technical ,Sign-up form not submitting
+Account Management ,Cannot delete saved billing address
+Billing ,Payment gateway error when trying to make a payment
+Billing ,Payment processing error
+Technical ,Password recovery link not clickable in email
+Technical ,Unable to sign in with correct credentials
+Account Management ,Account profile information incorrect
+Technical ,Forgotten password link not working
+Technical ,App freezes when I try to access certain features
+Account Management ,Account closure process not initiated
+Technical ,Account settings not saving changes
+Account Management ,Cannot delete account
+Account Management ,Cannot remove saved payment method
+Account Management ,Cannot delete saved payment method
+Account Management ,Payment method addition not available
+Billing ,Invoice does not reflect recent payment
+Billing ,Issue in checkout while billing
+Technical ,Sign-up page terms and conditions link broken
+Technical ,Unable to reset password
+Technical ,App freezes when trying to update profile picture
+Billing ,The billing site is not working properly
+Account Management ,Payment method addition not available
+Technical ,Sign-up page formatting issue on mobile
+Billing ,Payment gateway error when trying to make a payment
+Account Management ,Unable to verify account ownership
+Billing ,Payment gateway error when trying to make a payment
+Billing ,Difficulty accessing billing history
+Technical ,Error message when trying to log in after sign-up
+Account Management ,Some fields may be modified
+Technical ,Password strength requirements not clear
+Technical ,Sign-up confirmation email in spam folder
+Account Management ,Account closure request not processed
+Account Management ,Cannot delete my account
+Billing ,Payment processed but service not activated
+Technical ,Account settings not saving changes
+Technical ,Error when attempting to log in after password reset
+Billing ,Incorrect charges on my account
+Account Management ,Account payment method not working
+Account Management ,Cannot delete account
+Billing ,Payment failed error message despite sufficient funds
+Technical ,Refreshing problem
+Technical ,Unable to sign up
+Account Management ,Cannot remove saved payment method
+Account Management ,Account management needs some corrections
+Billing ,Payment failed error message despite sufficient funds
+Account Management ,Account transaction history missing
+Account Management ,Account closure request not processed
+Account Management ,Cannot delete saved payment method
+Account Management ,Cannot change account password
+Account Management ,Cannot change account password
+Billing ,Payment confirmation page freezes during checkout
+Billing ,Payment gateway error when trying to make a payment
+Billing ,Incorrect currency conversion applied to payment
+Technical ,App crashes on startup
+Billing ,Payment gateway error when trying to make a payment
+Technical ,Account deletion confirmation email not received
+Technical ,Sign-up confirmation email in spam folder
+Account Management ,Account error
+Billing ,Incorrect billing address entered during checkout
+Billing ,Payment declined due to expired credit card
+Technical ,Unable to reset password via email link
+Technical ,Unable to sign in after account suspension
+Account Management ,Payment method addition not available
+Technical ,App crashes when trying to view order history
+Account Management ,Unable to add new payment method
+Billing ,Overcharged for a service
+Account Management ,Account login issue
+Technical ,App crashes on startup
+Technical ,Unable to sign in with correct credentials
+Billing ,Payment gateway error when trying to make a payment
+Billing ,Issue in checkout while billing
+Technical ,Sign-up form not submitting
+Technical ,Login session timeout too short
+Technical ,App freezes when I try to access certain features
+Technical ,Sign-in with Google button not working
+Billing ,Difficulty accessing billing history
+Technical ,Error when attempting to log in after email change
+Billing ,Monthly subscription fee increased without notice
+Technical ,Account suspended without explanation
+Account Management ,Some fields may be modified
+Account Management ,Unable to change email address
+Technical ,App crashes on startup
+Technical ,I faced some technical issue some glitches are there
+Technical ,Account creation captcha not displaying
+Technical ,Videos won't play on the app
+Account Management ,Account error
+Billing ,Payment failed error message despite sufficient funds
+Account Management ,Unable to change account username
+Account Management ,Cannot change account password
+Account Management ,Cannot delete my account
+Technical ,Account activation link expired
+Technical ,App not compatible with my device
+Technical ,App crashes on startup
+Technical ,"Every time I try to use the service, I have to login again and again. So it would be better if I am permanently logged in."
+Technical ,Password reset link expired
+Technical ,Missing features after app update
+Technical ,Account settings not saving changes
+Technical ,Unable to log in after password change
+Billing ,Payment confirmation email not received
+Account Management ,Unable to add new payment method
+Account Management ,Unable to recover account
+Technical ,Error message when trying to update account information
+Technical ,Unable to create account with existing email
+Technical ,Unable to reset password
+Account Management ,Cannot delete account
+Billing ,Subscription plan not updated despite payment
+Technical ,Error message when trying to log in after sign-up
+Account Management ,Cannot remove saved payment method
+Billing ,Monthly statement not emailed as expected
+Account Management ,Cannot change account username
+Technical ,Password strength requirements not clear
+Account Management ,None
+Billing ,Billing statement not available in account dashboard
+Account Management ,Account closure process not initiated
+Technical ,Billing section must be corrected
+Technical ,Sign-in page keeps redirecting to homepage
+Technical ,Error when trying to retrieve security questions for password reset
+Technical ,Incorrect email format error not displayed
+Technical ,May contain more fields.
+Technical ,Error message when attempting to log in with LinkedIn
+Technical ,Error when trying to update account settings
+Account Management ,Unable to recover account
+Account Management ,Unable to add new payment method
+Technical ,Error when attempting to log in after email change
+Technical ,Password strength requirements not clear
+Billing ,Payment processing error
+Technical ,Account creation form submission error
+Technical ,Unable to sign in after account deletion
+Account Management ,Some fields may be modified
+Account Management ,Account management needs some corrections
+Billing ,Subscription not renewed automatically
+Technical ,Refreshing problem
+Account Management ,Cannot delete saved payment method
+Billing ,Overcharged for a service
+Technical ,Sign-in page not loading
+Technical ,Account locked after multiple failed login attempts
+Billing ,Payment receipt contains incorrect billing period
+Technical ,Sign-in page CSS formatting issue
+Account Management ,Unable to verify account ownership
+Account Management ,Account closure process not initiated
+Account Management ,Cannot change account password
+Technical ,Unable to create account with existing email
+Technical ,Sign-up form not accepting valid password format
+Billing ,Account suspended despite payment
+Billing ,Monthly subscription fee increased without notice
+Technical ,Error when attempting to log in with Facebook
+Account Management ,Account password reset not working
+Billing ,Difficulty canceling auto-renewal
+Account Management ,Unable to add new payment method
+Billing ,None
+Technical ,Error message when trying to update billing information
+Technical ,App crashes when trying to update profile information
+Technical ,Sign-in page keeps redirecting to homepage
+Technical ,Technical issues
+Billing ,Recurring payment not canceled despite request
+Technical ,Password recovery link not clickable in email
+Billing ,Payment receipt contains incorrect billing period
+Technical ,Refreshing problem
+Technical ,Sign-in with Google button not working
+Account Management ,Unable to add new payment method
+Technical ,Videos won't play on the app
+Billing ,Payment failed error message despite sufficient funds
+Account Management ,Unable to change email address
+Account Management ,Account closure process not initiated
+Technical ,Password recovery email not sent
+Technical ,Sign-up page stuck on loading spinner
+Account Management ,Account error
+Account Management ,Unable to remove saved billing address
+Technical ,Account locked without warning
+Account Management ,Unable to change email address
+Billing ,Payment declined due to insufficient funds
+Technical ,Password change form not submitting
+Technical ,App freezes when trying to update profile picture
+Technical ,Slow performance on the app
+Technical ,Sign-in error message persists
+Technical ,Billing section must be corrected
+Technical ,App crashes when trying to update account information
+Billing ,Payment confirmation email not received
+Billing ,Double charged for my subscription
+Account Management ,Saved payment method deletion not working
+Account Management ,Unable to change account settings
+Account Management ,Accounting issue
+Account Management ,Unable to verify account ownership
+Account Management ,Unable to remove saved billing address
+Account Management ,Unable to add new payment method
+Billing ,Payment declined due to insufficient funds
+Billing ,Charged twice for the same purchase
+Billing ,Payment processed but service not activated
+Account Management ,Cannot delete saved payment method
+Account Management ,Unable to add new payment method
+Technical ,Error message when attempting to log in with LinkedIn
+Billing ,Payment declined due to expired credit card
+Account Management ,Account password reset not working
+Technical ,Password recovery link not clickable in email
+Billing ,Charged for canceled subscription
+Technical ,Login credentials not recognized
+Billing ,Payment gateway error when trying to make a payment
+Technical ,Account settings not saving changes
+Account Management ,Cannot add new shipping address
+Technical ,Error message when attempting to log in from different timezone
+Billing ,Payment failed error message despite sufficient funds
+Billing ,Automatic payment failed due to bank authorization
+Billing ,Double charged for my subscription
+Technical ,Not supporting
+Billing ,Subscription not renewed automatically
+Technical ,Error message when attempting to log in from different timezone
+Account Management ,Saved payment method deletion not working
+Technical ,Unable to sign up
+Technical ,Unable to sign in after account suspension
+Technical ,Unable to sign in after account suspension
+Billing ,Payment confirmation email sent to wrong address
+Billing ,Recurring payment not canceled despite request
+Technical ,Unable to reset password
+Technical ,Error message when trying to update billing information
+Billing ,Payment processing error
+Account Management ,Cannot delete saved payment method
+Technical ,Error message when trying to update account information
+Account Management ,Unable to access account
+Technical ,Error message when attempting to log in from different timezone
+Billing ,Amount input can be modified.
+Technical ,Sign-up page terms and conditions link broken
+Billing ,Charged for canceled subscription
+Technical ,App crashes on startup
+Account Management ,Account information incorrect
+Account Management ,Unable to add new payment method
+Technical ,Error message when trying to apply a discount code
+Technical ,Error message when trying to update billing information
+Billing ,The billing site is not working properly
+Billing ,Invoice not received for last month's usage
+Technical ,App crashes on startup
+Technical ,Account suspended for unknown reason
+Billing ,Incorrect billing address entered during checkout
+Technical ,Login page keeps reloading
+Account Management ,Account password reset not working
+Account Management ,Account closure process not initiated
+Billing ,Billing statement not available in account dashboard
+Technical ,Error message when trying to submit a support ticket
+Account Management ,Unable to change email address
+Billing ,Difficulty canceling auto-renewal
+Billing ,Automatic payment failed due to bank authorization
+Billing ,Payment confirmation email sent to wrong address
+Technical ,Unable to create account with special characters in password
+Account Management ,Accounting issue
+Billing ,Charged for canceled subscription
+Billing ,None
+Technical ,Refreshing problem
+Billing ,Subscription not renewed automatically
+Billing ,Incorrect billing address entered during checkout
+Technical ,App freezes when trying to update profile picture
+Billing ,Incorrect charges on my account
+Account Management ,Unable to recover account
+Technical ,App crashes when trying to view order history
+Billing ,Charged twice for the same purchase
+Billing ,Charged twice for the same purchase
+Account Management ,Unable to remove saved billing address
+Account Management ,Profile picture won't update
+Account Management ,Cannot change account password
+Technical ,Error message when trying to update profile picture
+Technical ,Error when trying to log in with Apple ID
+Account Management ,Account management section needs correcrion
+Billing ,Invoice does not reflect recent payment
+Account Management ,Payment method addition not available
+Billing ,Subscription plan not updated despite payment
+Technical ,Error message when attempting to log in after account deletion
+Technical ,Account activation link expired
+Technical ,Error message when trying to submit a support ticket
+Billing ,Charged for canceled subscription
+Account Management ,Saved payment method deletion not working
+Billing ,Charged for a service I didn't subscribe to
+Account Management ,Unable to change account password
+Account Management ,Unable to recover account
+Billing ,Payment confirmation email sent to wrong address
+Technical ,Password change form not submitting
+Account Management ,Unable to change account username
+Account Management ,Account login issue
+Technical ,Error message when trying to submit a support ticket
+Account Management ,Cannot update my profile information
+Technical ,Missing features after app update
+Technical ,Technical issues
+Account Management ,Saved payment method deletion not working
+Technical ,May contain more fields.
+Technical ,Error message when trying to submit a support ticket
+Technical ,Error message when attempting to log in after account deletion
+Account Management ,Cannot remove saved payment method
+Technical ,Error when trying to update account settings
+Account Management ,Unable to delete account
+Account Management ,Saved payment method not available
+Technical ,Login session timeout too short
+Billing ,Payment mode may be defined well.
+Account Management ,Cannot delete my account
+Technical ,Error when attempting to log in with Facebook
+Account Management ,Account profile not updating
+Billing ,Payment failed error message despite sufficient funds
+Technical ,Error message when trying to update billing information
+Billing ,Payment receipt shows incorrect amount
+Technical ,Sign-up page formatting issue on mobile
+Billing ,Overcharged for a service
+Technical ,Sign-in page CSS formatting issue
+Account Management ,Unable to access account
+Account Management ,Unable to change email address
+Billing ,Payment receipt not accessible in account portal
+Technical ,Account settings not saving changes
+Technical ,I faced some technical issue some glitches are there
+Technical ,Unable to create account with existing email
+Billing ,None
+Billing ,Charged twice for the same purchase
+Billing ,Payment declined due to expired credit card
+Billing ,Invoice does not reflect recent payment
+Account Management ,Unable to reset password
+Billing ,Payment receipt shows incorrect amount
+Technical ,Error message when trying to update account information
+Technical ,App not compatible with my device
+Account Management ,Profile picture won't update
+Technical ,Error message when trying to update billing information
+Billing ,Unable to add new payment method
+Technical ,Refreshing problem
+Technical ,Password strength requirements not clear
+Billing ,Subscription plan upgraded without authorization
+Technical ,Password recovery link not clickable in email
+Technical ,App crashes when trying to access account settings
+Technical ,Error message when trying to submit a support ticket
+Billing ,Invoice does not reflect recent payment
+Billing ,None
+Technical ,App crashes when trying to view order history
+Technical ,Error when attempting to log in after account suspension
+Technical ,Seems slow
+Billing ,Invoice does not reflect recent payment
+Technical ,Account locked without warning
+Billing ,Payment confirmation email not received
+Technical ,Unable to sign in with correct credentials
+Account Management ,Cannot add new shipping address
+Technical ,Account creation form submission error
+Billing ,Monthly subscription fee increased without notice
+Technical ,Unable to change password
+Technical ,Error message when trying to update billing information
+Technical ,Password reset link expired
+Billing ,Subscription not renewed automatically
+Technical ,Account activation link expired
+Technical ,App crashes when trying to view order history
+Technical ,Sign-in page not loading
+Billing ,Payment declined due to expired credit card
+Technical ,Forgotten password link not working
+Technical ,Billing section must be corrected
+Billing ,Automatic payment failed due to bank authorization
+Billing ,Subscription plan not updated despite payment
+Technical ,Sign-in with Google button not working
+Billing ,Payment gateway error when trying to make a payment
+Technical ,Sign-up page formatting issue on mobile
+Account Management ,Cannot remove saved payment method
+Account Management ,Payment method addition not available
+Technical ,Sign-in page not loading
+Technical ,App crashes on startup
+Technical ,Password recovery email not sent
+Account Management ,Account management section needs correcrion
+Technical ,Videos won't play on the app
+Account Management ,Account profile information incorrect
+Technical ,Sign-up confirmation email in spam folder
+Technical ,Password strength requirements not clear
+Technical ,App crashes when trying to view order history
+Technical ,Error message when trying to update account information
+Account Management ,Unable to change email address
+Technical ,App not compatible with my device
+Technical ,Account locked after multiple failed login attempts
+Technical ,Forgotten password link not working
+Billing ,Payment receipt shows incorrect amount
+Technical ,Account deletion error message not clear
+Account Management ,Account password reset not working
+Billing ,Payment gateway error when trying to make a payment
+Technical ,Error message when trying to update account information
+Billing ,Overcharged for a service
+Account Management ,Unable to add new payment method
+Technical ,Account creation form submission error
+Technical ,Password reset link expired
+Account Management ,Account profile not updating
+Technical ,Refreshing problem
+Technical ,Error when attempting to log in after email change
+Billing ,Payment failed error message despite sufficient funds
+Billing ,Charged twice for the same purchase
+Technical ,Refreshing problem
+Billing ,Payment failed error message despite sufficient funds
+Technical ,Sign-up form not accepting valid password format
+Technical ,Error message when trying to submit a support ticket
+Billing ,Account suspended despite payment
+Technical ,Error when attempting to log in after account suspension
+Technical ,Sign-up verification email not received
+Billing ,Subscription plan not updated despite payment
+Billing ,Payment receipt not accessible in account portal
+Account Management ,Payment method addition not available
+Technical ,Account deletion error message not clear
+Billing ,Monthly statement not emailed as expected
+Billing ,Monthly statement not emailed as expected
+Account Management ,Saved payment method deletion not working
+Technical ,Login page keeps reloading
+Technical ,Error when attempting to log in with Facebook
+Technical ,Account settings not saving changes
+Technical ,App crashes when I try to upload a file
+Billing ,Unable to add new payment method
+Technical ,Error message when trying to submit a support ticket
+Account Management ,Account transaction history missing
+Account Management ,Account closure process not initiated
+Account Management ,Unable to recover account
+Technical ,Login page keeps reloading
+Billing ,Payment gateway error when trying to make a payment
+Technical ,Unable to sign in after password reset
+Billing ,Overcharged for a service
+Account Management ,Account payment method not working
+Technical ,App crashes when trying to update profile information
+Technical ,App freezes when trying to update profile picture
+Account Management ,Unable to add new payment method
+Billing ,Subscription plan not updated despite payment
+Billing ,The billing site is not working properly
+Technical ,"Every time I try to use the service, I have to login again and again. So it would be better if I am permanently logged in."
+Billing ,Payment receipt not accessible in account portal
+Technical ,Unable to sign in after account suspension
+Account Management ,Cannot delete saved payment method
+Technical ,Account locked after multiple failed login attempts
+Billing ,Monthly subscription fee not reflected in account
+Billing ,Automatic payment failed due to bank authorization
+Billing ,Payment confirmation page freezes during checkout
+Account Management ,Unable to verify account ownership
+Technical ,Error message when trying to submit a support ticket
+Technical ,Unable to sign in with correct credentials
+Billing ,Payment declined due to expired credit card
+Technical ,Error when trying to update account settings
+Account Management ,Cannot delete saved payment method
+Technical ,Unable to sign in after password reset
+Billing ,The billing site is not working properly
+Billing ,Charged for a service I didn't subscribe to
+Account Management ,Unable to remove saved billing address
+Billing ,Payment processing error
+Technical ,Password reset link expired
+Billing ,Subscription plan not updated despite payment
+Technical ,Error when trying to retrieve security questions for password reset
+Account Management ,Account information incorrect
+Account Management ,Cannot remove saved payment method
+Account Management ,Cannot change account password
+Billing ,Payment confirmation page freezes during checkout
+Billing ,Monthly subscription fee not reflected in account
+Technical ,Account deletion error message not clear
+Technical ,App not compatible with my device
+Billing ,Charged twice for the same purchase
+Technical ,"Every time I try to use the service, I have to login again and again. So it would be better if I am permanently logged in."
+Billing ,Duplicate charges on credit card statement
+Account Management ,None
+Billing ,Charged twice for the same purchase
+Billing ,Payment declined due to expired credit card
+Technical ,Login page keeps reloading
+Account Management ,Cannot change account password
+Technical ,App crashes on startup
+Technical ,Unable to sign in after account deletion
+Account Management ,Account profile not updating
+Billing ,Subscription plan not updated despite payment
+Account Management ,Account error
+Account Management ,Unable to delete saved payment method
+Billing ,Payment confirmation page freezes during checkout
+Billing ,Automatic payment failed due to bank authorization
+Billing ,Payment mode may be defined well.
+Account Management ,Payment method addition not available
+Technical ,Password recovery link not clickable in email
+Technical ,Password reset link not working
+Technical ,Account deletion confirmation email not received
+Account Management ,Unable to delete saved payment method
+Technical ,Error when trying to retrieve security questions for password reset
+Technical ,App crashes when trying to view order history
+Technical ,Error when trying to retrieve security questions for password reset
+Account Management ,Cannot delete saved payment method
+Account Management ,Account error
+Billing ,Charged for a service I didn't subscribe to
+Account Management ,Cannot remove saved payment method
+Billing ,Invoice not received for last month's usage
+Technical ,Error message when trying to submit a support ticket
+Technical ,Sign-in error message persists
+Account Management ,Cannot add new shipping address
+Billing ,Payment failed error message despite sufficient funds
+Technical ,Error message when trying to update profile picture
+Account Management ,Account error
+Technical ,Error message when trying to update profile picture
+Technical ,Password strength requirements not clear
+Account Management ,Account error
+Billing ,Payment gateway error when trying to make a payment
+Account Management ,Some fields may be modified
+Account Management ,Cannot change account password
+Billing ,Unable to add new payment method
+Billing ,Payment confirmation email not received
+Account Management ,Profile picture won't update
+Billing ,None
+Technical ,Incorrect email format error not displayed
+Billing ,Payment receipt shows incorrect amount
+Technical ,Error message when attempting to log in with LinkedIn
+Technical ,App crashes when trying to apply a discount code
+Technical ,App not compatible with my device
+Billing ,Payment receipt missing from email inbox
+Technical ,Error message when attempting to log in from different timezone
+Account Management ,Account management needs some corrections
+Technical ,Slow performance on the app
+Technical ,App freezes when trying to access certain features
+Billing ,Payment declined due to expired credit card
+Account Management ,Cannot add new shipping address
+Technical ,Account creation form submission error
+Account Management ,Unable to add new payment method
+Billing ,Overcharged for previous month's usage
+Technical ,App freezes when trying to access certain features
+Technical ,Password change form not submitting
+Technical ,Sign-up page formatting issue on mobile
+Billing ,The billing site is not working properly
+Technical ,App crashes when trying to access account settings
+Technical ,Error when trying to retrieve security questions for password reset
+Technical ,Error when attempting to log in after email change
+Billing ,Charged for canceled subscription
+Billing ,Charged for canceled subscription
+Technical ,App crashes when I try to upload a file
+Technical ,Sign-up form accepting invalid email format
+Technical ,Unable to change password
+Technical ,Login not working
+Technical ,Account settings page showing incorrect information
+Account Management ,Account closure request not processed
+Billing ,Monthly subscription fee increased without notice
+Billing ,Incorrect currency conversion applied to payment
+Technical ,Login page keeps reloading
+Billing ,Payment processing error
+Technical ,Account locked without warning
+Technical ,Unable to change password
+Technical ,Login not working
+Technical ,Unable to sign in after account deletion
+Technical ,Error when trying to update account settings
+Billing ,Payment processing error
+Billing ,Payment declined due to expired credit card
+Billing ,Overcharged for previous month's usage
+Account Management ,Accounting issue
+Account Management ,Cannot change account password
+Billing ,Invoice not received for last month's usage
+Billing ,Payment processing error
+Technical ,Account activation email not received
+Account Management ,Unable to verify account ownership
+Account Management ,Account closure request not processed
+Billing ,Billing statement not available in account dashboard
+Technical ,Technical issues
+Technical ,App crashes when trying to access account settings
+Technical ,Unable to log in after password change
+Billing ,Payment processing error
+Technical ,Account locked after multiple failed login attempts
+Billing ,Payment mode may be defined well.
+Technical ,Error message when trying to update billing information
+Account Management ,Unable to reset password
+Technical ,Unable to reset password via email link
+Account Management ,Unable to delete account
+Billing ,Subscription plan not updated despite payment
+Technical ,App crashes on startup
+Billing ,Subscription plan upgraded without authorization
+Billing ,Payment receipt shows incorrect amount
+Account Management ,Unable to delete saved payment method
+Technical ,Account deletion confirmation email not received
+Technical ,Error message when trying to submit a support ticket
+Technical ,Unable to sign in after account deletion
+Technical ,Password recovery email not sent
+Account Management ,Account closure request not processed
+Billing ,Amount input can be modified.
+Account Management ,Account management section needs correcrion
+Technical ,May contain more fields.
+Account Management ,Cannot change account password
+Technical ,Password reset link not working
+Technical ,Sign-up confirmation page blank after submission
+Account Management ,Cannot change account password
+Technical ,App crashes when trying to view order history
+Billing ,Charged for canceled subscription
+Account Management ,Unable to add new payment method
+Account Management ,Cannot remove saved payment method
+Billing ,The billing site is not working properly
+Technical ,Login page keeps reloading
+Account Management ,Saved payment method not available
+Technical ,Unable to sign in after account suspension
+Billing ,Subscription not renewed automatically
+Billing ,Payment receipt missing from email inbox
+Billing ,Subscription plan not updated despite payment
+Technical ,App crashes when trying to access account settings
+Account Management ,Cannot delete saved payment method
+Technical ,Seems slow
+Technical ,Error message when trying to update account information
+Technical ,Error message when trying to log in after account creation
+Technical ,Account locked without warning
+Technical ,App not compatible with my device
+Billing ,Charged for a service I didn't subscribe to
+Technical ,Unable to reset password via email link
+Account Management ,Account transaction history missing
+Billing ,Payment receipt shows incorrect amount
+Technical ,Unable to sign in after account deletion
+Technical ,Error when attempting to log in after password reset
+Technical ,App crashes when trying to view order history
+Account Management ,Cannot delete saved payment method
+Account Management ,Account closure request not processed
+Billing ,None
+Billing ,Difficulty accessing billing history
+Technical ,Sign-in error message persists
+Billing ,Payment gateway error when trying to make a payment
+Technical ,Some more fields are required
+Technical ,Sign-up page terms and conditions link broken
+Account Management ,Account profile not updating
+Technical ,Not supporting
+Billing ,Subscription plan not updated despite payment
+Technical ,Error message when trying to submit a support ticket
+Technical ,Unable to log in after password change
+Technical ,App not compatible with my device
+Billing ,Charged for canceled subscription
+Technical ,Unable to reset password
+Technical ,Unable to sign in with correct credentials
+Billing ,Recurring payment not canceled despite request
+Technical ,Account settings not saving changes
+Technical ,Account activation email not received
+Technical ,Error when trying to retrieve security questions for password reset
+Account Management ,Unable to remove saved billing address
+Billing ,Payment gateway error when trying to make a payment
+Account Management ,Unable to delete account
+Technical ,Error message when attempting to change password
+Technical ,Error message when trying to update billing information
+Technical ,Sign-in with Google button not working
+Account Management ,Account username change not reflecting
+Technical ,May contain more fields.
+Account Management ,Account profile not updating
+Account Management ,Account closure request not processed
+Technical ,Error message when trying to update billing information
+Technical ,Incorrect email format error not displayed
+Account Management ,Cannot delete account
+Account Management ,Account profile not updating
+Account Management ,Account closure process not initiated
+Technical ,Unable to create account with existing email
+Account Management ,Unable to change email address
+Technical ,Account locked without warning
+Billing ,Invoice not generated for recent subscription renewal
+Technical ,Error message when trying to log in after sign-up
+Technical ,Unable to sign in after password reset
+Billing ,Charged for canceled subscription
+Technical ,Error when attempting to log in after email change
+Account Management ,Account closure request not processed
+Billing ,Payment failed error message despite sufficient funds
+Account Management ,Account password change not successful
+Technical ,App crashes on startup
+Technical ,Password reset link not working
+Technical ,App crashes when I try to upload a file
+Account Management ,Saved payment method deletion not working
+Technical ,Sign-in page error
+Billing ,Subscription plan not updated despite payment
+Account Management ,Account management needs some corrections
+Technical ,Sign-in error message persists
+Billing ,Subscription plan not updated despite payment
+Technical ,Password recovery link not clickable in email
+Technical ,App crashes when trying to update profile information
+Technical ,Error message when trying to update billing information
+Technical ,Account suspended without explanation
+Technical ,Unable to change password
+Account Management ,Unable to change account password
+Technical ,Sign-in error message persists
+Billing ,Payment confirmation page freezes during checkout
+Technical ,I faced some technical issue some glitches are there
+Account Management ,Account closure request not processed
+Billing ,Subscription not renewed automatically
+Billing ,Subscription plan not updated despite payment
+Account Management ,Account management section needs correcrion
+Account Management ,Account login issue
+Technical ,Technical issues
+Billing ,Overcharged for a service
+Account Management ,Unable to remove saved billing address
+Billing ,Duplicate charges on credit card statement
+Billing ,Incorrect charges on my account
+Account Management ,Cannot delete saved payment method
+Billing ,Payment processed but service not activated
+Billing ,Payment processed but service not activated
+Technical ,Error message when trying to submit a support ticket
+Technical ,App crashes on startup
+Billing ,Charged for canceled subscription
+Technical ,Error message when attempting to change password
+Account Management ,Accounting issue
+Technical ,Slow performance on the app
+Technical ,Unable to sign in after account suspension
+Billing ,Payment declined due to expired credit card
+Billing ,Payment mode may be defined well.
+Billing ,None
+Account Management ,Account error
+Technical ,Seems slow
+Billing ,Payment receipt shows incorrect amount
+Billing ,Payment confirmation email sent to wrong address
+Account Management ,Payment method addition not available
+Technical ,Sign-up page terms and conditions link broken
+Account Management ,Account profile information incorrect
+Account Management ,Unable to delete saved payment method
+Technical ,Password reset link not working
+Technical ,App freezes when trying to update profile picture
+Technical ,App crashes on startup
+Account Management ,Accounting issue
+Account Management ,Unable to delete account
+Technical ,Videos won't play on the app
+Technical ,Unable to reset password via email link
+Billing ,Difficulty canceling auto-renewal
+Billing ,Payment processed but service not activated
+Technical ,May contain more fields.
+Account Management ,Account payment method not working
+Account Management ,None
+Technical ,Slow performance on the app
+Technical ,Sign-up confirmation email in spam folder
+Technical ,Error message when trying to update account information
+Billing ,Payment processing error
+Billing ,Payment failed error message despite sufficient funds
+Account Management ,Account information incorrect
+Technical ,Error message when trying to update account information
+Billing ,Charged twice for the same purchase
+Technical ,Sign-in page error
+Technical ,Sign-up verification email not received
+Technical ,Error when trying to log in with Apple ID
+Technical ,Login session timeout too short
+Technical ,Sign-up verification email not received
+Billing ,Charged for canceled subscription
+Account Management ,Cannot update my profile information
+Technical ,Slow performance on the app
+Technical ,Sign-in error message persists
+Technical ,Login credentials not recognized
+Billing ,Payment gateway error when trying to make a payment
+Technical ,Sign-up confirmation page blank after submission
+Account Management ,Unable to change email address
+Account Management ,Unable to add new payment method
+Account Management ,Cannot change account password
+Technical ,Sign-up verification email not received
+Technical ,Error message when trying to update account information
+Billing ,Difficulty canceling auto-renewal
+Technical ,Unable to sign in after account suspension
+Billing ,Charged for a service I didn't subscribe to
+Technical ,Error message when trying to submit a support ticket
+Technical ,Unable to log in after password change
+Technical ,Incorrect email format error not displayed
+Account Management ,Account username change not reflecting
+Technical ,Unable to log in after password change
+Account Management ,Unable to verify account ownership
+Billing ,Difficulty accessing billing history
+Account Management ,Account management needs some corrections
+Technical ,Password reset link not working
+Billing ,Payment confirmation page freezes during checkout
+Account Management ,Cannot add new shipping address
+Technical ,Some more fields are required
+Technical ,Unable to sign in after password reset
+Technical ,Sign-in page error
+Technical ,Error message when attempting to log in from different timezone
+Technical ,Unable to create account with special characters in password
+Technical ,App crashes when trying to update profile information
+Account Management ,Account password change not successful
+Technical ,Login page keeps reloading
+Billing ,Payment confirmation page freezes during checkout
+Technical ,App freezes when trying to update profile picture
+Technical ,Sign-in page CSS formatting issue
+Billing ,Overcharged for a service
+Account Management ,None
+Technical ,App freezes when trying to update profile picture
+Account Management ,Cannot change password
+Technical ,Error when trying to update account settings
+Technical ,Account creation form submission error
+Technical ,App freezes when trying to access certain features
+Billing ,Payment failed error message despite sufficient funds
+Technical ,App crashes when trying to update account information
+Technical ,Sign-in page error
+Technical ,Sign-up page formatting issue on mobile
+Account Management ,Account management needs some corrections
+Account Management ,Account closure process not initiated
+Billing ,Recurring payment not canceled despite request
+Technical ,Forgotten password link not working
+Technical ,Login credentials not recognized
+Billing ,Incorrect billing address entered during checkout
+Technical ,Account activation link expired
+Billing ,Subscription not renewed automatically
+Technical ,Unable to change password
+Account Management ,Unable to change account password
+Technical ,Account locked without warning
+Account Management ,Cannot update my profile information
+Technical ,Error when trying to update account settings
+Technical ,App freezes when trying to access certain features
+Technical ,Sign-up verification email not received
+Technical ,Sign-in page not loading
+Technical ,Error message when attempting to change password
+Billing ,Invoice does not reflect recent payment
+Billing ,Charged twice for the same purchase
+Account Management ,Cannot change account username
+Billing ,Invoice not generated for recent subscription renewal
+Account Management ,Cannot change password
+Technical ,Forgotten password link not working
+Billing ,Double charged for my subscription
+Technical ,Not supporting
+Billing ,Payment processed but service not activated
+Technical ,Error message when trying to apply a discount code
+Billing ,Incorrect billing address entered during checkout
+Account Management ,Cannot delete my account
+Technical ,Unable to reset password
+Billing ,Payment confirmation page freezes during checkout
+Technical ,Account deletion confirmation email not received
+Technical ,Login page keeps reloading
+Billing ,Issue in checkout while billing
+Technical ,Unable to log in on new device without verification code
+Billing ,Invoice does not reflect recent payment
+Technical ,App freezes when trying to access certain features
+Technical ,Unable to log in after password change
+Billing ,Payment failed error message despite sufficient funds
+Technical ,App freezes when I try to access certain features
+Technical ,Unable to sign in with correct credentials
+Billing ,Payment mode may be defined well.
+Account Management ,Account balance discrepancy
+Billing ,Overcharged for previous month's usage
+Billing ,Unable to add new payment method
+Billing ,Payment receipt shows incorrect amount
+Technical ,Unable to sign up
+Account Management ,Unable to change email address
+Technical ,calculation instruction may be changed.
+Technical ,Unable to sign in with correct credentials
+Technical ,App crashes when trying to update profile information
+Billing ,Payment failed error message despite sufficient funds
+Technical ,App crashes on startup
+Technical ,Error when attempting to log in after account suspension
+Billing ,Monthly subscription fee not reflected in account
+Technical ,Account deletion error message not clear
+Account Management ,Unable to change account password
+Billing ,Incorrect charges on my account
+Technical ,Unable to sign in with correct credentials
+Billing ,Incorrect VAT charges on invoice
+Technical ,Sign-in page error
+Technical ,Sign-in error message persists
+Billing ,Overcharged for previous month's usage
+Billing ,Billing statement not available in account dashboard
+Technical ,Account deletion error message not clear
+Billing ,Charged for a service I didn't subscribe to
+Billing ,Account suspended despite payment
+Account Management ,Cannot delete my account
+Technical ,Error message when trying to log in after sign-up
+Billing ,Incorrect currency conversion applied to payment
+Technical ,App crashes when trying to update profile information
+Billing ,Payment gateway error when trying to make a payment
+Billing ,Payment processing error
+Technical ,App crashes when trying to access certain features
+Technical ,Login credentials not recognized
+Billing ,Incorrect currency conversion applied to payment
+Billing ,Payment confirmation page freezes during checkout
+Account Management ,Unable to remove saved billing address
+Technical ,May contain more fields.
+Technical ,Sign-up form accepting invalid email format
+Account Management ,Saved payment method deletion not working
+Technical ,Account suspended without explanation
+Technical ,Unable to create account with existing email
+Technical ,Error when trying to log in with Apple ID
+Technical ,Sign-up verification email not received
+Technical ,Error when trying to log in with Twitter
+Technical ,App freezes when trying to update profile picture
+Account Management ,Unable to verify account ownership
+Technical ,Error when trying to log in with Apple ID
+Technical ,Sign-in with Google button not working
+Billing ,Payment receipt contains incorrect billing period
+Technical ,Error message when trying to apply a discount code
+Billing ,Payment gateway error when trying to make a payment
+Technical ,Sign-up confirmation page blank after submission
+Technical ,Sign-in page not loading
+Account Management ,Cannot delete account
+Technical ,Account activation link expired
+Billing ,Payment gateway error when trying to make a payment
+Technical ,Error message when trying to submit a support ticket
+Technical ,App freezes when trying to access certain features
+Technical ,Videos won't play on the app
+Billing ,Difficulty canceling auto-renewal
+Account Management ,Unable to change email address
+Technical ,App freezes when trying to access certain features
+Account Management ,Unable to add new payment method
+Billing ,Subscription plan not updated despite payment
+Technical ,Unable to change password
+Technical ,Refreshing problem
+Technical ,Unable to sign up
+Account Management ,Account information incorrect
+Account Management ,Unable to change account password
+Billing ,Charged for a service I didn't subscribe to
+Billing ,Overcharged for a service
+Account Management ,Account error
+Technical ,Password reset link not working
+Account Management ,Cannot add new shipping address
+Technical ,App crashes when trying to apply a discount code
+Billing ,Subscription plan not updated despite payment
+Technical ,Unable to create account with existing email
+Technical ,App crashes when trying to view order history
+Technical ,Error when attempting to log in with Facebook
+Technical ,Login credentials not recognized
+Billing ,Payment gateway error when trying to make a payment
+Technical ,Error when trying to retrieve security questions for password reset
+Technical ,Sign-up confirmation page blank after submission
+Billing ,Charged twice for the same purchase
+Billing ,Unable to add new payment method
+Account Management ,Account management section needs correcrion
+Technical ,Login session timeout too short
+Technical ,Error message when trying to log in after account creation
+Technical ,App crashes when trying to access certain features
+Billing ,Payment failed error message despite sufficient funds
+Billing ,Subscription plan upgraded without authorization
+Technical ,App crashes when trying to access account settings
+Account Management ,None
+Billing ,Payment confirmation email not received
+Billing ,Payment processed but service not activated
+Billing ,Payment processing error
+Technical ,Account deletion confirmation email not received
+Technical ,Error message when attempting to log in with LinkedIn
+Technical ,App not compatible with my device
+Billing ,Payment declined due to insufficient funds
+Account Management ,Account payment method not working
+Account Management ,Payment method addition not available
+Billing ,Incorrect VAT charges on invoice
+Account Management ,Account login issue
+Account Management ,Cannot delete account
+Account Management ,Unable to change email address
+Technical ,Password recovery email not sent
+Technical ,Unable to reset password via email link
+Technical ,Sign-up confirmation page blank after submission
+Account Management ,Cannot delete saved billing address
+Technical ,Account suspended for unknown reason
+Billing ,Payment processing error
+Technical ,Password recovery email not sent
+Billing ,Payment processing error
+Account Management ,Cannot delete account
+Technical ,"Every time I try to use the service, I have to login again and again. So it would be better if I am permanently logged in."
+Technical ,Unable to sign up
+Account Management ,Cannot add new shipping address
+Technical ,Some more fields are required
+Technical ,App crashes when trying to view order history
+Account Management ,Account profile information incorrect
+Technical ,Sign-up form not accepting valid password format
+Billing ,The billing site is not working properly
+Billing ,Charged for canceled subscription
+Technical ,App crashes when trying to apply a discount code
+Technical ,Sign-up verification email not received
+Technical ,Unable to change password
+Account Management ,None
+Technical ,App crashes when trying to view order history
+Technical ,Error message when trying to update billing information
+Billing ,Payment declined due to expired credit card
+Account Management ,Cannot change account password
+Technical ,Error message when trying to submit a support ticket
+Technical ,Password recovery link not clickable in email
+Technical ,Account locked after multiple failed login attempts
+Account Management ,Account settings not saving
+Technical ,Unable to change password
+Billing ,Charged twice for the same purchase
+Technical ,I faced some technical issue some glitches are there
+Account Management ,Account error
+Technical ,App crashes when trying to access certain features
+Technical ,Account locked after multiple failed login attempts
+Account Management ,Account management needs some corrections
+Account Management ,Account settings not saving
+Account Management ,Account settings not saving
+Technical ,App freezes when trying to update profile picture
+Technical ,App freezes when trying to access certain features
+Billing ,Payment gateway error when trying to make a payment
+Technical ,Account creation captcha not displaying
+Technical ,App crashes when trying to update profile information
+Technical ,Sign-up form not accepting valid password format
+Account Management ,None
+Billing ,Amount input can be modified.
+Technical ,Sign-up verification email not received
+Account Management ,Some fields may be modified
+Technical ,Error when attempting to log in with Facebook
+Billing ,Amount input can be modified.
+Account Management ,Unable to verify account ownership
+Technical ,Account creation form submission error
+Technical ,Error message when attempting to log in from different timezone
+Billing ,Automatic payment failed due to bank authorization
+Account Management ,Profile picture won't update
+Account Management ,Account information incorrect
+Billing ,Duplicate charges on credit card statement
+Technical ,Login not working
+Account Management ,Cannot remove saved payment method
+Technical ,Error message when trying to update profile picture
+Billing ,Difficulty accessing billing history
+Billing ,Charged twice for the same purchase
+Technical ,Unable to create account with special characters in password
+Technical ,Password recovery email not sent
+Technical ,App crashes when trying to view order history
+Technical ,Unable to sign up
+Billing ,Payment declined due to insufficient funds
+Technical ,Unable to log in after password change
+Billing ,Payment receipt missing from email inbox
+Technical ,Refreshing problem
+Technical ,App crashes on startup
+Billing ,Issue in checkout while billing
+Billing ,Monthly statement not emailed as expected
+Technical ,Slow performance on the app
+Account Management ,Accounting issue
+Account Management ,Account login issue
+Billing ,Charged twice for the same purchase
+Billing ,Payment processing error
+Account Management ,Unable to change account settings
+Technical ,App crashes when trying to access certain features
+Technical ,Sign-up page stuck on loading spinner
+Account Management ,Unable to access account
+Account Management ,Unable to add new payment method
+Billing ,Monthly subscription fee increased without notice
+Account Management ,Account management needs some corrections
+Technical ,Password recovery email not sent
+Billing ,The billing site is not working properly
+Account Management ,Cannot change account password
+Technical ,App not compatible with my device
+Billing ,Payment mode may be defined well.
+Account Management ,Saved payment method deletion not working
+Account Management ,Unable to change account password
+Billing ,Overcharged for previous month's usage
+Billing ,Incorrect billing address entered during checkout
+Technical ,Unable to sign in with correct credentials
+Account Management ,Account information incorrect
+Billing ,Payment mode may be defined well.
+Billing ,Payment receipt missing from email inbox
+Technical ,Password reset link expired
+Account Management ,Cannot delete account
+Technical ,"Every time I try to use the service, I have to login again and again. So it would be better if I am permanently logged in."
+Technical ,calculation instruction may be changed.
+Technical ,Error message when trying to submit a support ticket
+Account Management ,Cannot delete account
+Technical ,Unable to sign in after password reset
+Billing ,Payment confirmation email not received
+Technical ,Sign-up verification email not received
+Technical ,Technical issue
+Technical ,Sign-in page CSS formatting issue
+Billing ,Payment receipt missing from email inbox
+Technical ,App freezes when trying to update profile picture
+Billing ,Charged twice for the same purchase
+Technical ,Unable to log in on new device without verification code
+Billing ,Subscription plan not updated despite payment
+Technical ,Error message when attempting to change password
+Billing ,Incorrect charges on my account
+Billing ,Monthly subscription fee not reflected in account
+Technical ,Technical issues
+Billing ,Payment processing error
+Technical ,Sign-up page formatting issue on mobile
+Account Management ,Unable to change account password
+Account Management ,Unable to change email address
+Technical ,Seems slow
+Billing ,Monthly statement not emailed as expected
+Technical ,Error when attempting to log in after password reset
+Technical ,Error when attempting to log in after password reset
+Technical ,Error message when trying to update billing information
+Technical ,Account locked after multiple failed login attempts
+Billing ,Incorrect charges on my account
+Billing ,Subscription plan upgraded without authorization
+Technical ,Unable to reset password via email link
+Account Management ,Cannot delete saved payment method
+Account Management ,Cannot add new shipping address
+Billing ,Charged twice for the same purchase
+Technical ,Login not working
+Technical ,App crashes when trying to update account information
+Technical ,Account settings not saving changes
+Account Management ,Account closure request not processed
+Technical ,Sign-up verification email not received
+Account Management ,Account transaction history missing
+Billing ,Payment processing error
+Technical ,Account activation email not received
+Account Management ,Cannot delete saved billing address
+Technical ,App freezes when trying to update profile picture
+Account Management ,Account closure process not initiated
+Technical ,Error message when trying to log in after sign-up
+Billing ,Monthly subscription fee not reflected in account
+Technical ,Password change form not submitting
+Technical ,Error message when trying to update profile picture
+Technical ,Error message when attempting to change password
+Technical ,App crashes on startup
+Technical ,Account settings page showing incorrect information
+Billing ,Charged for canceled subscription
+Billing ,Payment receipt not accessible in account portal
+Technical ,Account settings not saving changes
+Billing ,Payment processing error
+Billing ,Payment confirmation page freezes during checkout
+Technical ,Sign-up page stuck on loading spinner
+Technical ,App freezes when I try to access certain features
+Account Management ,None
+Account Management ,Account password change not successful
+Technical ,Error message when trying to update billing information
+Technical ,Error message when trying to submit a support ticket
+Billing ,None
+Billing ,The billing site is not working properly
+Technical ,Account settings not saving changes
+Technical ,App crashes when I try to upload a file
+Billing ,Monthly subscription fee not reflected in account
+Billing ,Charged for canceled subscription
+Billing ,Payment confirmation page freezes during checkout
+Technical ,Error message when trying to update account information
+Technical ,Error message when attempting to change password
+Account Management ,Account login issue
+Technical ,Password recovery link not clickable in email
+Technical ,Not supporting
+Technical ,App crashes when trying to view order history
+Technical ,Account activation email not received
+Technical ,Videos won't play on the app
+Billing ,Payment gateway error when trying to make a payment
+Technical ,App freezes when trying to update profile picture
+Account Management ,Unable to verify account ownership
+Billing ,Payment mode may be defined well.
+Technical ,Error message when attempting to log in from different timezone
+Technical ,Unable to sign in with correct credentials
+Technical ,Login not working
+Technical ,Account deletion error message not clear
+Technical ,App crashes when trying to update profile information
+Technical ,Error when attempting to log in with Facebook
+Billing ,Invoice does not reflect recent payment
+Billing ,None
+Account Management ,Cannot add new shipping address
+Technical ,Account suspended for unknown reason
+Technical ,Unable to sign in after account suspension
+Account Management ,Payment method addition not available
+Account Management ,Unable to access account
+Technical ,Error message when trying to log in after account creation
+Account Management ,Account balance discrepancy
+Technical ,Error when attempting to log in with Facebook
+Billing ,Incorrect VAT charges on invoice
+Account Management ,Unable to reset password
+Technical ,Account activation link expired
+Account Management ,Account payment method not working
+Technical ,App crashes when trying to access account settings
+Account Management ,Unable to access account
+Billing ,Automatic payment failed due to bank authorization
+Account Management ,Saved payment method deletion not working
+Billing ,Payment declined due to expired credit card
+Account Management ,Cannot add new shipping address
+Billing ,The billing site is not working properly
+Technical ,Unable to reset password
+Technical ,Error message when trying to log in after account creation
+Technical ,App freezes when trying to access certain features
+Account Management ,Unable to remove saved billing address
+Billing ,Monthly subscription fee not reflected in account
+Technical ,Technical issues
+Account Management ,Cannot delete saved payment method
+Technical ,Error message when trying to update profile picture
+Technical ,Login credentials not recognized
+Billing ,Payment processing error
+Technical ,Sign-up page stuck on loading spinner
+Account Management ,Unable to delete account
+Technical ,Login session timeout too short
+Billing ,Subscription plan not updated despite payment
+Technical ,Unable to sign up
+Account Management ,Unable to verify account ownership
+Billing ,Charged twice for the same purchase
+Account Management ,Cannot add new shipping address
+Technical ,App crashes when trying to access certain features
+Technical ,Sign-in error message persists
+Billing ,Difficulty canceling auto-renewal
+Technical ,App crashes on startup
+Billing ,Payment confirmation email sent to wrong address
+Technical ,I faced some technical issue some glitches are there
+Account Management ,Account payment method not working
+Technical ,I faced some technical issue some glitches are there
+Technical ,Account activation link expired
+Technical ,Password change form not submitting
+Account Management ,Unable to access account
+Technical ,Sign-in with Google button not working
+Technical ,May contain more fields.
+Technical ,Error message when trying to update billing information
+Technical ,Error when trying to log in with Twitter
+Billing ,Incorrect billing address entered during checkout
+Technical ,Seems slow
+Technical ,Login credentials not recognized
+Billing ,The billing site is not working properly
+Technical ,May contain more fields.
+Billing ,Account suspended despite payment
+Billing ,Payment processing error
+Billing ,Payment declined due to expired credit card
+Billing ,Payment confirmation email sent to wrong address
+Account Management ,Unable to change email address
+Account Management ,Cannot delete saved payment method
+Account Management ,Unable to change account username
+Account Management ,Unable to remove saved billing address
+Technical ,Account activation link expired
+Technical ,Unable to log in after password change
+Billing ,Payment confirmation email not received
+Account Management ,Accounting issue
+Technical ,Sign-in error message persists
+Account Management ,Saved payment method not available
+Technical ,Unable to create account with special characters in password
+Billing ,Billing statement not available in account dashboard
+Technical ,Unable to create account with special characters in password
+Billing ,Monthly subscription fee not reflected in account
+Technical ,Sign-up page terms and conditions link broken
+Technical ,Account suspended for unknown reason
+Billing ,Charged twice for the same purchase
+Account Management ,None
+Technical ,Login not working
+Technical ,"Every time I try to use the service, I have to login again and again. So it would be better if I am permanently logged in."
+Billing ,Difficulty canceling auto-renewal
+Technical ,Error message when attempting to log in with LinkedIn
+Account Management ,Account profile information incorrect
+Technical ,Error message when trying to update billing information
+Account Management ,Account management needs some corrections
+Billing ,Payment failed error message despite sufficient funds
+Technical ,Account activation email not received
+Account Management ,Account transaction history missing
+Technical ,App crashes when trying to apply a discount code
+Billing ,Billing statement not available in account dashboard
+Billing ,Payment failed error message despite sufficient funds
+Account Management ,Unable to change account password
+Technical ,App crashes on startup
+Account Management ,Unable to add new payment method
+Account Management ,Unable to remove saved billing address
+Technical ,Account activation link expired
+Technical ,Error when trying to log in with Apple ID
+Technical ,Password strength requirements not clear
+Technical ,App crashes when I try to upload a file
+Technical ,Error message when attempting to log in with LinkedIn
+Technical ,Account suspended without explanation
+Account Management ,Unable to add new payment method
+Account Management ,Unable to change email address
+Technical ,Unable to sign in after account suspension
+Technical ,Missing features after app update
+Technical ,Error when attempting to log in after email change
+Technical ,Account deletion confirmation email not received
+Billing ,Invoice does not reflect recent payment
+Account Management ,Accounting issue
+Account Management ,Unable to remove saved billing address
+Technical ,Sign-up page stuck on loading spinner
+Technical ,Error message when trying to update billing information
+Technical ,Account settings not saving changes
+Technical ,Unable to sign in after account deletion
+Account Management ,Saved payment method deletion not working
+Billing ,Payment declined due to expired credit card
+Billing ,Incorrect charges on my account
+Technical ,Error when attempting to log in after account suspension
+Technical ,Seems slow
+Account Management ,Unable to delete account
+Billing ,Overcharged for a service
+Account Management ,Cannot add new shipping address
+Technical ,Password strength requirements not clear
+Account Management ,Account profile information incorrect
+Technical ,App freezes when I try to access certain features
+Account Management ,Account information incorrect
+Billing ,Payment receipt missing from email inbox
+Account Management ,Unable to change email address
+Technical ,App freezes when trying to update profile picture
+Account Management ,Unable to delete saved payment method
+Technical ,Unable to reset password via email link
+Billing ,Incorrect VAT charges on invoice
+Technical ,Account creation captcha not displaying
+Billing ,Invoice not received for last month's usage
+Technical ,"Every time I try to use the service, I have to login again and again. So it would be better if I am permanently logged in."
+Technical ,Sign-up page formatting issue on mobile
+Billing ,Payment failed error message despite sufficient funds
+Account Management ,Account management section needs correcrion
+Account Management ,Unable to change email address
+Technical ,Sign-up page terms and conditions link broken
+Account Management ,Unable to change email address
+Technical ,App freezes when I try to access certain features
+Account Management ,Account username change not reflecting
+Technical ,App crashes when trying to apply a discount code
+Technical ,Error message when attempting to log in after account deletion
+Billing ,The billing site is not working properly
+Technical ,Sign-in button not responsive
+Account Management ,Unable to delete saved payment method
+Account Management ,Profile picture won't update
+Billing ,Payment confirmation email sent to wrong address
